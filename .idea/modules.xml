@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/Polindrom_number/Polindrom_number.iml" filepath="$PROJECT_DIR$/Polindrom_number/Polindrom_number.iml" />
       <module fileurl="file://$PROJECT_DIR$/Roman_to_integer/Roman_to_integer.iml" filepath="$PROJECT_DIR$/Roman_to_integer/Roman_to_integer.iml" />
       <module fileurl="file://$PROJECT_DIR$/Two_sum/Two_sum.iml" filepath="$PROJECT_DIR$/Two_sum/Two_sum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Valid_Parentheses/Valid_Parentheses.iml" filepath="$PROJECT_DIR$/Valid_Parentheses/Valid_Parentheses.iml" />
     </modules>
   </component>
 </project>
