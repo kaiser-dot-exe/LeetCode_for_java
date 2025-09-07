@@ -4,8 +4,10 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/LeetCode_for_java.iml" filepath="$PROJECT_DIR$/.idea/LeetCode_for_java.iml" />
       <module fileurl="file://$PROJECT_DIR$/Longest-common-prefix/Longest-common-prefix.iml" filepath="$PROJECT_DIR$/Longest-common-prefix/Longest-common-prefix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Merge_Two_Sorted_List/Merge_Two_Sorted_List.iml" filepath="$PROJECT_DIR$/Merge_Two_Sorted_List/Merge_Two_Sorted_List.iml" />
       <module fileurl="file://$PROJECT_DIR$/Polindrom_number/Polindrom_number.iml" filepath="$PROJECT_DIR$/Polindrom_number/Polindrom_number.iml" />
       <module fileurl="file://$PROJECT_DIR$/Roman_to_integer/Roman_to_integer.iml" filepath="$PROJECT_DIR$/Roman_to_integer/Roman_to_integer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sorted_Array/Sorted_Array.iml" filepath="$PROJECT_DIR$/Sorted_Array/Sorted_Array.iml" />
       <module fileurl="file://$PROJECT_DIR$/Two_sum/Two_sum.iml" filepath="$PROJECT_DIR$/Two_sum/Two_sum.iml" />
       <module fileurl="file://$PROJECT_DIR$/Valid_Parentheses/Valid_Parentheses.iml" filepath="$PROJECT_DIR$/Valid_Parentheses/Valid_Parentheses.iml" />
     </modules>
